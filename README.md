@@ -1,7 +1,3 @@
-</div>
-### Autonomous Engineer
-
-- Autonomous Engineer in Autonomus Platform industry(Mobility - Autonomous Shuttle, Education Robot Platform)
 
 ### Interest
 
