@@ -25,7 +25,7 @@
 
 - youtube: [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZO5wCDe0vTI7L3jyaNfj-g)](https://www.youtube.com/channel/UCZO5wCDe0vTI7L3jyaNfj-g)
 
-
+[![Dae Jong JIn's github stats](https://github-readme-stats.vercel.app/api?username=jdj2261&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jdj2261/jdj2261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
