@@ -15,7 +15,7 @@
 
 ## 🔭 Career
 
-- Research Engineer at Unmanned Solution (2020 - **PRESENT**)
+- Research Engineer at Unmanned Solution (April, 2020 - May, 2021)
 - Research Engineer at Robocare (2019)
 - Received the B.S. degrees, in Robotics from Kwangwoon University, Seoul, Korea, in 2019.
 
