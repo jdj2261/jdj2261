@@ -4,19 +4,18 @@
 
 ## 🌱 Interest
 
-- **Image Recognition using Deep Learning**
-  - Classification
-  - Object Detection
-  - Segmentation
-- **Autonomous Driving System**
-  - Path tracking
-  - Path planning & Navigation
-  - Fusion of Lidar and Camera for Object Detection
+- **Robotics**
+  - Manipulation
+  - Task and Motion Planning
+- **Altifical Intelligence**
+  - Deep Learning
+  - Reinforcement Learning
 
 ## 🔭 Career
 
-- Research Engineer at Unmanned Solution (April, 2020 - May, 2021)
-- Research Engineer at Robocare (2019)
+- Research Intern at [RAI LAB](https://sites.google.com/view/railab/home), Chung-Ang University, Seoul, Korea (July, 2021 - )
+- Research Engineer at [Unmanned Solution](http://www.unmansol.com/) (April, 2020 - May, 2021)
+- Research Intern at [Inbody](http://inbody.kr/kr/main/Main.aspx) (2018)
 - Received the B.S. degrees, in Robotics from Kwangwoon University, Seoul, Korea, in 2019.
 
 ## 📫 Contact
