@@ -22,8 +22,8 @@
 
 - email: [wlseoeo@gmail.com](mailto:wlseoeo@gmail.com)
 - youtube: [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZO5wCDe0vTI7L3jyaNfj-g)](https://www.youtube.com/channel/UCZO5wCDe0vTI7L3jyaNfj-g)
-- Blog: <a href="https://djjin.github.io" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" alt="gitblog" height="25" width="25"></a>
-- Notion: <a href="https://djjin.me" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" alt="모나리자" height="25" width="25"></a>
+- Blog: <a href="https://jdj2261.github.io" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" alt="gitblog" height="25" width="25"></a>
+- Notion: <a href="https://www.notion.so/0b857568839f41f38a5f4ec61b7e7188" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" alt="모나리자" height="25" width="25"></a>
 
 [![Dae Jong JIn's github stats](https://github-readme-stats.vercel.app/api?username=jdj2261&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
