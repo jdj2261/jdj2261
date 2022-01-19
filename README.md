@@ -7,15 +7,16 @@
 - **Robotics**
   - Manipulation
   - Task and Motion Planning
-- **Altifical Intelligence**
+- **AI**
   - Deep Learning
   - Reinforcement Learning
 
 ## 🔭 Career
 
-- Research Intern at [RAI LAB](https://sites.google.com/view/railab/home), Chung-Ang University, Seoul, Korea (July, 2021 - )
-- Research Engineer at [Unmanned Solution](http://www.unmansol.com/) (April, 2020 - May, 2021)
-- Research Intern at [Inbody](http://inbody.kr/kr/main/Main.aspx) (2018)
+- M.S in AI at [RAILAB](https://sites.google.com/view/railab/home), from Chung-Ang University, Seoul, Korea (Mar, 2022 - )
+- Research Intern at [RAILAB](https://sites.google.com/view/railab/home), from Chung-Ang University, Seoul, Korea (July, 2021 - Feb, 2022)
+- Research Engineer at [Unmanned Solution](http://www.unmansol.com/), from Seoul, Korea (April, 2020 - May, 2021)
+- Research Intern at [Inbody](http://inbody.kr/kr/main/Main.aspx), from Seoul, Korea (2018)
 - Received the B.S. degrees, in Robotics from Kwangwoon University, Seoul, Korea, in 2019.
 
 ## 📫 Contact
