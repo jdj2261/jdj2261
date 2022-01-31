@@ -28,7 +28,7 @@
 ## ✍️ Blog
 
 - Personal blog: <a href="https://jdj2261.github.io" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" alt="gitblog" height="25" width="25"></a>
-- Team blog: <a href="https://ropiens.tistory.com/category/djjin" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605925693/noticon/ydfszdnubsd0eczqffwf.png" alt="gitblog" height="20" width="20"></a>
+- Team blog: <a href="https://ropiens.tistory.com/category/djjin" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" height="25" width="25"></a>
 
 [![Dae Jong JIn's github stats](https://github-readme-stats.vercel.app/api?username=jdj2261&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
