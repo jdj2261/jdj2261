@@ -15,6 +15,7 @@
 - Research Intern at [RAILAB](https://sites.google.com/view/railab/home), from Chung-Ang University, Seoul, Korea (July, 2021 - Feb, 2022)
 - Received the B.S. degrees, in Robotics from Kwangwoon University, Seoul, Korea, in 2019.
 
+<!--
 ## 📫 Contact
 
 - email: [wlseoeo@gmail.com](mailto:wlseoeo@gmail.com)
@@ -23,6 +24,7 @@
 ## ✍️ Blog
 
 - Personal blog: <a href="https://jdj2261.github.io" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" alt="gitblog" height="25" width="25"></a>
+-->
 
 <!--
 **jdj2261/jdj2261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
