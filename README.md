@@ -11,8 +11,7 @@
 
 ## 🔭 Career
 
-- M.S in AI at [RAILAB](https://sites.google.com/view/railab/home), from Chung-Ang University, Seoul, Korea (Mar, 2022 - )
-- Research Intern at [RAILAB](https://sites.google.com/view/railab/home), from Chung-Ang University, Seoul, Korea (July, 2021 - Feb, 2022)
+- M.S in AI at [RAILAB](https://sites.google.com/view/railab/home), from Chung-Ang University, Seoul, Korea (Mar, 2022 - Feb, 2024)
 - Received the B.S. degrees, in Robotics from Kwangwoon University, Seoul, Korea, in 2019.
 
 <!--
