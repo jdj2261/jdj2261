@@ -5,14 +5,10 @@
 - **Robotics**
   - Manipulation
   - Task and Motion Planning
-- **AI**
-  - Deep Learning
-  - Reinforcement Learning
 
 ## 🔭 Career
-
-- Received the M.S. degrees, in AI at [RAILAB](https://sites.google.com/view/railab/home), from Chung-Ang University, Seoul, Korea (Mar, 2022 - Feb, 2024)
-- Received the B.S. degrees, in Robotics from Kwangwoon University, Seoul, Korea, in 2019.
+- Graduated AI master's degree at CAU, Korea
+- Robot Motion Planning Engineer at HD Hyundai Robotics, Korea
 
 <!--
 ## 📫 Contact
