@@ -7,8 +7,8 @@
   - Task and Motion Planning
 
 ## 🔭 Career
-- Graduated AI master's degree at CAU, Korea
-- Robot Motion Planning Engineer at HD Hyundai Robotics, Korea
+- Graduated AI master's degree at CAU, Korea (2022.03 ~ 2024.02)
+- Robot Motion Planning Engineer at HD Hyundai Robotics, Korea (2024.01 ~ )
 
 <!--
 ## 📫 Contact
